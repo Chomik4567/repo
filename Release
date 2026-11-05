@@ -1,0 +1,9 @@
+Origin: chomik4567 Repo
+Label: chomik4567
+Suite: stable
+Version: 1.0
+Codename: chomik
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia repo by chomik
+
